@@ -8,6 +8,8 @@ By combining high-precision sensing, robust data management, and real-time commu
 AIR QUALITY INDEX:
 It is a numerical scale used to report and forecast daily air quality, making complex air pollution data understandable for the public and helping people make informed health decisions. AQI values run from 0 to 500, with higher values indicating greater air pollution and increased health risks
 
+![image](https://github.com/user-attachments/assets/88e6e183-7eb1-47b1-9d7b-a516802833bf)
+
 
 The selected CAAQMS stations:
 1.	Anand Vihar CAAQMS, Delhi
